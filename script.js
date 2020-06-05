@@ -19,6 +19,10 @@ const quotes = [
     name: "Buddha",
     quote: "The root of suffering is attachment",
   },
+  {
+    name: "S C Bose",
+    quote: "It is blood alone that can pay the price of freedom.",
+  },
 ];
 
 const quoteBtn = document.querySelector("#quoteBtn");
