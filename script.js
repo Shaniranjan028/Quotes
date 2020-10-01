@@ -23,6 +23,10 @@ const quotes = [
     name: "S C Bose",
     quote: "It is blood alone that can pay the price of freedom.",
   },
+  {
+    name: "W Diseny",
+    quote: "All our dreams can come true, if we have the courage to pursue them.",
+  },
 ];
 
 const quoteBtn = document.querySelector("#quoteBtn");
